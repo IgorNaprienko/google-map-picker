@@ -1,1 +1,1 @@
-new new google-map-pickernew new google-map-picker
+new new google-map-pickernew new google-map-pickergoogle-map-picker
